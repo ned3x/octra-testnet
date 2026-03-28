@@ -1,1 +1,2 @@
 # octra-testnet
+getting there
